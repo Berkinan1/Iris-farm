@@ -5,7 +5,8 @@ import asyncio
 
 @loader.tds
 class Iris_spamMod(loader.Module):
-    """Модуль для фарма денежек монет в ирисе, спам в чате"""
+    """Модуль для фарма денежек монет в ирисе, спам в чате  
+    чтобы он работал пожалуйста войдите в чат по ссылке: https://t.me/+WcHo3M2GDwYxYmMy"""
     strings = {"name": "iris_spam"}
     
     def __init__(self):
